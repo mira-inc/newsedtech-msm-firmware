@@ -2,7 +2,7 @@
   "manifest": {
     "version": "044",
     "application": {
-      "firmware_file": "https://raw.githubusercontent.com/mira-inc/newsedtech-msm-firmware/torisuma_detection_beacon_app_pca10056_s140_dfu_package_13044.zip",
+      "firmware_file": "hhttps://raw.githubusercontent.com/mira-inc/newsedtech-msm-firmware/main/torisuma_detection_beacon_app_pca10056_s140_dfu_package_13044.zip"
     }
   }
 }
